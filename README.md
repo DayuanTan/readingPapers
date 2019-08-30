@@ -5,7 +5,7 @@ Papers for extensive reading included.
 
 Papers for intensive reading excluded. 
 
-See [lianghe's papers](lianghe.xslx).
+See [lianghe's papers](lianghe.xlsx).
 
 ## Copyright Declaration:
 I don't have any copyright of those papers except for some papers which I am one of their authors. I downloaded papers from google scholar or other papers dataset using or not using UMBC account. 
